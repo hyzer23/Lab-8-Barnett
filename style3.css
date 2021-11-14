@@ -1,0 +1,36 @@
+
+body{
+    background-color: darkseagreen; color: darkred;
+    background-image: url(images/ClarityAlbumCover.jpg); background-size: 100%;
+}
+figcaption{
+    color: white;
+}
+p {
+    font-family: 'Gill Sans';
+    font-size: 22pt;
+    background-color: white;
+}
+p.alternate{
+    font-family: 'Gill Sans';
+    font-size: 22pt;
+    color:darkblue;
+    width:36%;
+}
+ul{
+    font-family: 'Gill Sans';
+    font-size: 18pt;
+}
+ul.websites:hover{
+    font-size: 20pt
+}
+a{
+    background-color: white;
+    color: red;
+}
+a:hover{
+    color: blue;
+}
+img:hover {
+    
+}
